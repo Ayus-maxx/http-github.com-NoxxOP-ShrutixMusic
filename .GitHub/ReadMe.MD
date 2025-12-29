@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoxxOP/ShrutixMusic/fork"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutixMusic?style=social" alt="GitHub Forks"></a>
+  <a href="https://github.com/Ayus-maxx/http-github.com-NoxxOP-ShrutixMusic/fork"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutixMusic?style=social" alt="GitHub Forks"></a>
   <a href="https://github.com/NoxxOP/ShrutixMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutixMusic?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/NoxxOP/ShrutixMusic/graphs/contributors"><img src="https://img.shields.io/github/contributors/NoxxOP/ShrutixMusic?style=social" alt="GitHub Contributors"></a>
   <a href="https://github.com/NoxxOP/ShrutixMusic/issues"><img src="https://img.shields.io/github/issues/NoxxOP/ShrutixMusic?style=social" alt="GitHub Issues"></a>
@@ -24,7 +24,7 @@
 ## 🌟 Quick Deploy
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutixMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="200px" alt="Deploy to Heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Ayus-maxx/http-github.com-NoxxOP-ShrutixMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="200px" alt="Deploy to Heroku"></a>
 </p>
 
 <h2 align="center">🚀 Deploy to Render (Free Hosting)</h2>
